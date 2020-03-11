@@ -8,3 +8,4 @@ correlated torsions of ethylene glycol
 * `one_d_scans.pdf` - 1D scans
 * `td_1d_1.xzy` - 1D torsion scan conformers from one starting conformation
 * `td_1d_12.xyz` - 1D torsion scan conformers from 12 starting structures
+* `td_2d_12.xyz` - 2D torsion scan conformers from 12 starting structures
